@@ -1,0 +1,14 @@
+{
+  "name": "cucumberjstutorial",
+  "version": "1.0.0",
+  "description": "Cucumber Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rui Pereira",
+  "license": "ISC",
+  "devDependencies": {
+    "@cucumber/cucumber": "^10.8.0"
+  }
+}
